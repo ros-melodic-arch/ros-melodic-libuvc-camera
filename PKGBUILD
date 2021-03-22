@@ -6,7 +6,7 @@ url='https://wiki.ros.org/libuvc_camera'
 pkgname='ros-melodic-libuvc-camera'
 pkgver='0.0.10'
 arch=('i686' 'x86_64' 'aarch64' 'armv7h' 'armv6h')
-pkgrel=4
+pkgrel=5
 license=('BSD')
 
 ros_makedepends=(ros-melodic-camera-info-manager

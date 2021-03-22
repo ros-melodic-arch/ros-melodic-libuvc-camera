@@ -1,7 +1,7 @@
 pkgbase = ros-melodic-libuvc-camera
 	pkgdesc = ROS - USB Video Class camera driver.
 	pkgver = 0.0.10
-	pkgrel = 4
+	pkgrel = 5
 	url = https://wiki.ros.org/libuvc_camera
 	arch = i686
 	arch = x86_64
